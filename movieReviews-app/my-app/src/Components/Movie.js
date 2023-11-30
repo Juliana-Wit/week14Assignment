@@ -7,7 +7,7 @@ import ReviewList from './ReviewList';
 import ReviewForm from './ReviewForm';
 
 //This is where I put together the Movie class. Each movie will display to the UI
-//with the movie title, genera, MPA rating, and release date on the header of a card.
+//with the movie title, genre, MPA rating, and release date on the header of a card.
 //In the card body, there will be a quick synopsis of the movie with the Review List
 //underneath. The footer will have the Review Form so that users can add their own reviews. 
 

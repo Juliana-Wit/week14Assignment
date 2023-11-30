@@ -18,7 +18,7 @@ export default class Movie extends React.Component {
         return (
             <div className='card w-80'>
                 <div className='card-header'>
-                    Movie Title, Genera, MPA Rating, Release Date
+                    Movie Title, Genre, MPA Rating, Release Date
                 </div>
                 <div className='card-body'>
                     <p>Synopsis of Movie</p>
